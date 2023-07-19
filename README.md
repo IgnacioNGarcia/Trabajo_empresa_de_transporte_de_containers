@@ -132,7 +132,7 @@ El modulo de GPS en esta etapa permitirá calcular distancia y tiempo promedio q
 embarcación en recorrer el trayecto entre 2 sedes.
 
 ### NUEVO Cargas
-#### (en nuestro caso ya la teniamos asi que seria actualizacion)
+
 Con más experiencia en la industria del transporte de cargas, la empresa comienza a clasificar mejor los
 tipos de cargas que carga en sus containers. A partir de este momento, la empresa puede identificar cargas
 de tipo alimenticia, químicas (pinturas, combustibles, desechos), maquinarias. Esta distinción permite
@@ -140,22 +140,5 @@ establecer nuevas reglas de negocio, como por ejemplo:
 
 - Las cargas alimenticias deben viajar en containers de tipo ventilado .
 - Las cargas alimenticias no pueden viajar junto a cargas de tipo químicas.
+- Fin
 
-
-
-## Cosas que nos faltan
-- [x] Punto control 1
-    - [x] Diagrama
-- [x] Punto control 2
-    - [x] Codigo base
-    - [x] MockObjects base
-- [x] Punto control 3
-    - [ ] Codigo
-    - [ ] MockObjects
-- [x] Punto control 4 (2da Etapa)
-    - [ ] Codigo nuevo
-    - [ ] MockObjects nuevos
-- [ ] Punto control 5
-    - [ ] Codigo final
-    - [ ] MockObjects finales
-- [ ] Entregado
