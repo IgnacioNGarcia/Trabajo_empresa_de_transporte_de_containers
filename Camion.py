@@ -3,7 +3,7 @@ class Camion():
         self.__disponible = True
         self.__id = id # GenerarId.generar_numeros_distintos()
         self.__contenedor = None
-    
+    ''
     'Getters y setters:'
     def get_disponible(self):
         return self.__disponible
